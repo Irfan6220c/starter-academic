@@ -1,39 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Irfan Haider
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Technical University of Munich
+  #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Experienced Numerical software developer with a demonstrated history of working in the research industry. Skilled in C++/STL, C++/Qt, OpenGL, Python/Bokeh/SMT, and MATLAB. Strong research professional with a Master's of Science focused on Computational Mechanics from Technical University Munich.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Numerical Methods
+- Software Development
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc in Computational Mechanics
+    institution: Technical University of Munich, Germany
+    year: 2020
+  - course: BSc in Civil Engineering
+    institution: University of Engineering and Technology, Lahore
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
